@@ -2,9 +2,13 @@
 
 Code accompanying:
 
-> "Profile Empirical Likelihood Confidence Bands for the Difference of
-> Survival Quantiles under Stratified Cox Models"
-> Author Name, Institution Name
+> **Profile Empirical Likelihood Confidence Bands for the Difference of
+> Survival Quantiles under Stratified Cox Models**
+> Taiwo Michael Ayeni and Yichuan Zhao
+> Department of Mathematics and Statistics, Georgia State University,
+> Atlanta, GA, USA
+
+Correspondence: tayeni2@gsu.edu
 
 This repository contains the simulation and real-data analysis code for
 comparing three confidence-interval procedures for the difference in
@@ -84,6 +88,21 @@ closed-form true quantile difference. The design crosses four sample
 sizes, three censoring rates, and three quantile levels, evaluated at
 90% and 95% nominal confidence with 2,000 Monte Carlo replications per
 scenario. See the paper for full methodological and simulation detail.
+
+## Citation
+
+If you use this code, please cite:
+
+```
+Ayeni, T. M. and Zhao, Y. Profile Empirical Likelihood Confidence
+Bands for the Difference of Survival Quantiles under Stratified Cox
+Models. Department of Mathematics and Statistics, Georgia State
+University.
+```
+
+## Contact
+
+Taiwo Michael Ayeni — tayeni2@gsu.edu
 
 ## License
 
