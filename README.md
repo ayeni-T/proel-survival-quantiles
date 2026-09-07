@@ -6,7 +6,8 @@ Code accompanying:
 Taiwo Michael Ayeni and Yichuan Zhao
 Department of Mathematics and Statistics, Georgia State University, Atlanta, GA, USA
 
-Correspondence: your_email@your_institution.edu
+Correspondence: yichuan@gsu.edu
+Repository maintainer/code questions: tayeni2@gsu.edu
 
 > **Note:** account/path placeholders throughout the SLURM scripts and
 > main script (`YOUR_ACCOUNT`, `YOUR_PARTITION`, `/path/to/your/workdir`,
